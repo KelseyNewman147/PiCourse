@@ -7,10 +7,12 @@ Today I will be walking through how to host a Spring Boot server on a Raspberry 
 You can find a link to my first LED test project here: 
 https://github.com/ArcSoftware/PiLedTest
 
-## First we will Fork this Repo into your own accounts.
-
+## Fork and Clone this Repo.
+First we will fork this repository.
 Then we will clone the new repo by the following git command:
-<code> /git clone [your new repo URL.git] </code>
+```
+/git clone [your new repo URL.git]
+```
 ##### Note: Your current directory is where the cloned project will be placed. 
 
 ### If you don't have Git on your computer already, you can do this by the following:
