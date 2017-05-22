@@ -76,7 +76,9 @@ Copy the following code into your new manager class:
     }
 #### Finally we need to create the HTML interface to call the new fuction we have created. 
 Open the HTML file named "index.html" that I have pre created for you and paste the following code into the body:
-```Toggle Light: <a href="/?led=testled"><button>LED</button></a>```
+```
+Toggle Light: <a href="/?led=testled"><button>LED</button></a>
+```
 #### Now build your Gradle project from the Gradle menu. 
 
 ## That's it for the code! Now lets push our code, and spin up a web server!
