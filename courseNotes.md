@@ -34,7 +34,7 @@ Install here: http://msysgit.github.io
 
 
 ## Now that we have the repo locally, open the project in IntelliJ. 
-Open new project with all default settings, adding only "Auto Import". 
+Open new project with all default settings, adding only "Auto-Import". 
 
 Create a Java Class named "PiCourseController". 
 
@@ -89,7 +89,7 @@ $ git commit -m "adding changes"
 $ git push
 ```
 
-Now SSH into your Pi using terminal:
+Now SSH into your Pi using terminal: (PuTTY for Windows)
 ```
 $ ssh pi@192.168.[subnet].[ip]
 password: raspberry
@@ -103,7 +103,7 @@ Change to a good directory to clone your repo as you did before:
 ```
 $ git clone [repo.git]
 ```
-Change to the jar directory:
+Change to the jar directory: 
 ```
 cd PiCourse\builds\libs
 ls
