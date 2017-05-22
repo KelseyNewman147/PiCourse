@@ -15,12 +15,12 @@ Then we will clone the new repo by the following git command:
 ```
 ##### Note: Your current directory is where the cloned project will be placed. 
 
-### If you don't have Git on your computer already, you can do this by the following:
+## If you don't have Git on your computer already, you can do this by the following:
 
-#### Linux: 
+### Linux: 
 <code>$ sudo yum install git-all</code>
 
-#### MacOSX: 
+### MacOSX: 
 Install HomeBrew, then Git:
 
 #### Homebrew: 
@@ -29,7 +29,7 @@ Install HomeBrew, then Git:
 #### Git: 
 <code>$ brew install git</code>
 
-#### Windows: 
+### Windows: 
 Install here: http://msysgit.github.io
 
 
